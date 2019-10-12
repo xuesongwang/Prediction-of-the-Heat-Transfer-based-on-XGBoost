@@ -1,6 +1,7 @@
 ![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
 # Predicting heat transfer of oscillating heat pipes for machining processes based on extreme gradient boosting algorithm
-
+  https://www.sciencedirect.com/science/article/pii/S1359431119351531
+  
 Ning Qian, Xuesong Wang, Yucan Fu*, Zhengcai Zhao, Jiuhua Xu
 ## Prerequisite python packages
 This code requires python 2.7+ and the following packages:
