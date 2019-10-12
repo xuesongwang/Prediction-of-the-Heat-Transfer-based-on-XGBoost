@@ -50,7 +50,7 @@ numpy, pandas, matplotlib, sklearn, xgboost, lightgbm
   this may need 1-2 hours to run if you define a big searching grid.
   
   The optimal parameters we used in the paper were given as below.
-  ![parameter setting][parameters.jpg]
+  ![parameter setting][parameters.png]
   
   
 
