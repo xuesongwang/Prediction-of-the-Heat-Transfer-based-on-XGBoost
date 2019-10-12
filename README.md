@@ -51,7 +51,7 @@ numpy, pandas, matplotlib, sklearn, xgboost, lightgbm
   
   The optimal parameters we used in the paper were given as below.
   
-  ![parameters][parameters.png]
+  ![parameters](parameters.png)
   
   
 
