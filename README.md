@@ -48,6 +48,8 @@ numpy, pandas, matplotlib, sklearn, xgboost, lightgbm
   python regression/main_grid_search.py
   ```
   this may need 1-2 hours to run if you define a big searching grid.
+  The optimal parameters we used in the paper were given as below.
+  
   
 
 ## Code Structure for XGBoost in main.py
