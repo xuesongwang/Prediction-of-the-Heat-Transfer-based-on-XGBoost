@@ -1,5 +1,6 @@
 ![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
-# Prediction of the heat transfer of oscillating heat pipes for machining processes based on extreme gradient boosting regression
+# Predicting heat transfer of oscillating heat pipes for machining processes based on extreme gradient boosting algorithm
+
 Ning Qian, Xuesong Wang, Yucan Fu*, Zhengcai Zhao, Jiuhua Xu
 ## Prerequisite python packages
 This code requires python 2.7+ and the following packages:
@@ -43,13 +44,13 @@ numpy, pandas, matplotlib, sklearn, xgboost, lightgbm
  
   https://scikit-learn.org/stable/modules/grid_search.html#grid-search
 
-  to see how we choose best parameters in main.py, run
+  to see how to choose best parameters in main.py, run
     ```bash
   python regression/main_grid_search.py
   ```
   this may need 1-2 hours to run if you define a big searching grid.
   
-  The optimal parameters we used in the paper were given as below.
+  The optimal parameters used in the paper were given as below.
   
   ![parameters](parameters.png)
   
