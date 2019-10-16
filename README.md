@@ -4,7 +4,7 @@
   
   https://authors.elsevier.com/c/1ZvUm4r6Kuzoxh
   
-Ning Qian, Xuesong Wang, Yucan Fu*, Zhengcai Zhao, Jiuhua Xu, JiajiaChen
+Ning Qian, Xuesong Wang, Yucan Fu*, Zhengcai Zhao, Jiuhua Xu, Jiajia Chen
 ## Prerequisite python packages
 This code requires python 2.7+ and the following packages:
 
